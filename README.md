@@ -14,7 +14,7 @@ Propensify is a data-driven project aimed at developing a predictive model to id
 - Test.xlsx: Similar to train.xlsx, this Excel file contains data on potential customers to whom the model will be applied for prediction.
 - Propensity_Model.ipynb: This Jupyter Notebook contains the Python code for data preprocessing, model building, hyperparameter tuning, model evaluation, and 
    result visualization.
-- Source_code_pipeline.py: Python script defining the data preprocessing pipeline used in the model training process.
+- Source_code_pipeline.ipynb: Python script defining the data preprocessing pipeline used in the model training process.
 - Propensify.joblib: Serialized joblib file containing the trained propensity model.
 - Preprocessing_pipeline.joblib: Serialized joblib file containing the preprocessing pipeline used for data transformation.
 - README.md: You are currently reading the README file providing an overview of the project.
